@@ -2,7 +2,7 @@
 layout: post
 title:  "Welcome to Tiny Home Studios website!"
 date:   2024-04-15 13:36:48 +0200
-categories: general update
+categories: posts
 ---
 
 # Welcome!
