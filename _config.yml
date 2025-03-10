@@ -22,7 +22,7 @@ title: Tiny Home Studios
 email: hello@tinyhome.tech
 description: >- # this means to ignore newlines until "baseurl:"
   Copyright © 2025 Tiny Home Studios Ltd
-baseurl: "" # the subpath of your site, e.g. /blog
+baseurl: "/tinyhome-site" # the subpath of your site, e.g. /blog
 url: "https://tinyhomestudios.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: tinyhomestudios
 github_username:  tinyhomestudios
